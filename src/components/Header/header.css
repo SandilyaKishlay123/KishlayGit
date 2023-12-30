@@ -37,7 +37,7 @@ header{
 .me{
     background: linear-gradient(var(--color-primary), transparent);
     width: 18rem;
-    height: 25rem;
+    height: 270px;
     position:absolute;
     left:calc(50% - 11rem);
     margin-top: 4rem;
@@ -53,6 +53,9 @@ header{
 .me img{
     width: 300px;
     height: 210px;
+    position: relative;
+    top:18%;
+    right: 10%
 }
 /*==========================SCROLL DOWN====================*/
 .scroll__down{
@@ -66,8 +69,19 @@ header{
 /*=========================MEDIA QUIRIES(MEDIUM DEVICES)=============*/
 @media screen and (max-width:1024px){
     header{
-        height: 68vh;
+        height: 100vh;
     }
+    .me{
+        height:270px ;
+        
+    }
+    .me img{
+        position: relative;
+        top:18%;
+        right: 10%;
+    }
+    
+
     
 }
 
@@ -79,6 +93,15 @@ header{
     }
     .header__social,.scroll__down{
         display:none;
+    }
+    .me{
+        height:270px ;
+        margin-left: 10%;
+    }
+    .me img{
+        position: relative;
+        top:18%;
+        right: 10%;
     }
     
 }
