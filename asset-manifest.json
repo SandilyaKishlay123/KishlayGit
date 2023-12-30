@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/KishlayGit/static/css/main.419e43ca.css",
+    "main.js": "/KishlayGit/static/js/main.9d1bf3e0.js",
+    "static/media/me.png": "/KishlayGit/static/media/me.ca7ae937ac12546cb27c.png",
+    "static/media/RESUME_CV_SANDILYA KISHLAY.pdf": "/KishlayGit/static/media/RESUME_CV_SANDILYA KISHLAY.d6dc4625ee93f28b72d2.pdf",
+    "static/media/me2.jpg": "/KishlayGit/static/media/me2.3dd68a3d541e54d79de6.jpg",
+    "static/media/frontend.png": "/KishlayGit/static/media/frontend.5072f13bab3877654ba2.png",
+    "static/media/bg_texture.png": "/KishlayGit/static/media/bg_texture.8a1abc775dec4ce9e1d1.png",
+    "static/media/WD.jpg": "/KishlayGit/static/media/WD.51f8a5b95d2bfabd2b9c.jpg",
+    "static/media/DM.jpg": "/KishlayGit/static/media/DM.3287ae01103b53ee5391.jpg",
+    "static/media/IMG1.jpg": "/KishlayGit/static/media/IMG1.ba03b33ac65d78b16b84.jpg",
+    "static/media/DC.png": "/KishlayGit/static/media/DC.59804d4d6d0ecaa5bef0.png",
+    "static/media/IMG3.jpg": "/KishlayGit/static/media/IMG3.1b6dc17bd9e4dd0b6af1.jpg",
+    "static/media/backend.png": "/KishlayGit/static/media/backend.26aa1852ae0b3280c76e.png",
+    "index.html": "/KishlayGit/index.html",
+    "main.419e43ca.css.map": "/KishlayGit/static/css/main.419e43ca.css.map",
+    "main.9d1bf3e0.js.map": "/KishlayGit/static/js/main.9d1bf3e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.419e43ca.css",
+    "static/js/main.9d1bf3e0.js"
+  ]
+}
