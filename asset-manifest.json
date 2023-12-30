@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/KishlayGit/static/css/main.419e43ca.css",
+    "main.css": "/KishlayGit/static/css/main.d37e9f87.css",
     "main.js": "/KishlayGit/static/js/main.9d1bf3e0.js",
     "static/media/me.png": "/KishlayGit/static/media/me.ca7ae937ac12546cb27c.png",
     "static/media/RESUME_CV_SANDILYA KISHLAY.pdf": "/KishlayGit/static/media/RESUME_CV_SANDILYA KISHLAY.d6dc4625ee93f28b72d2.pdf",
@@ -14,11 +14,11 @@
     "static/media/IMG3.jpg": "/KishlayGit/static/media/IMG3.1b6dc17bd9e4dd0b6af1.jpg",
     "static/media/backend.png": "/KishlayGit/static/media/backend.26aa1852ae0b3280c76e.png",
     "index.html": "/KishlayGit/index.html",
-    "main.419e43ca.css.map": "/KishlayGit/static/css/main.419e43ca.css.map",
+    "main.d37e9f87.css.map": "/KishlayGit/static/css/main.d37e9f87.css.map",
     "main.9d1bf3e0.js.map": "/KishlayGit/static/js/main.9d1bf3e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.419e43ca.css",
+    "static/css/main.d37e9f87.css",
     "static/js/main.9d1bf3e0.js"
   ]
 }
